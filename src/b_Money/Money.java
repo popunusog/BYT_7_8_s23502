@@ -1,7 +1,7 @@
 package b_Money;
 
 public class Money implements Comparable<Money> {
-	private int amount;
+	private Integer amount;
 	private Currency currency;
 
 	/**
